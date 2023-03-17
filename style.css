@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(https://c0.wallpaperflare.com/preview/428/158/321/background-coffee-computer-connection.jpg);
+   background-size: cover;
+   
+   background-repeat: no-repeat;
+
+} 
+* {
+    box-sizing: border-box;
+}
+.all {
+    max-width: 330px;
+    margin: auto;
+    gap: 20px;
+}
+.big {
+    width: 400px;
+    padding: 8px;
+    background-color: #21313E;
+    color: ivory;
+    cursor: pointer;
+}
+.another {
+    display: none;
+}
+.one_title {
+    margin-top: 240px;
+}
+.two_title {
+    margin-top: 30px;
+}
+.blue {
+    display: none;
+}
+.word {
+    display: none;
+}
+.show {
+    display: block;
+}
+.hidden {
+    display: none;
+}
